@@ -1,0 +1,19 @@
+# Zvukové soubory a hotové audioknihy do repozitáře nepatří
+*.mp3
+*.m4a
+*.m4b
+*.aac
+*.flac
+*.wav
+*.ogg
+*.opus
+*.wma
+*.aif
+*.aiff
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
